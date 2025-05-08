@@ -1,5 +1,5 @@
 {
-    "name": "My NFT #1",
-    "description": "This is my NFT description.",
-    "image": "https://tinyurl.com/mynfttest/3.png"
+    "name": "My NFT #3",
+    "description": "This is NFT 3 of Collection MyNFT.",
+    "image": "https://raw.githubusercontent.com/warengonzaga/nft-dummy-assets/refs/heads/main/src/collections/emoji-nft/images/3.png"
 }
